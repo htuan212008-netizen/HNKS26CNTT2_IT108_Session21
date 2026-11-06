@@ -18,3 +18,4 @@ Hãy dịch nghĩa thông báo lỗi này sang tiếng Việt đơn giản, gi�
 - Cách 1: Ấn chuột phải vào app và chọn Run as administrator
 - Cách 2: Mở thư mục, nhấp chuột phải chọn Propoties, tab Security chọn Edit và cấp Full control cho tài khoản hiện tại.
 - Cách 3: Chuyển file log ra vị trí khạc
+5. Phải xóa hoặc thay thế các chuỗi nhạy cảm (như API_KEY: volt_secret_token_889922 thành [REDACTED]) trước khi đưa lên AI để tránh rò rỉ dữ liệu mật của hệ thống doanh nghiệp ra ngoài.
