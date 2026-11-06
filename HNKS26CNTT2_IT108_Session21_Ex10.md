@@ -1,6 +1,7 @@
 # Bài 10: Đánh Giá Đa Giải Pháp Quy Trình Khắc Phục Sự Cố Kỹ Thuật
 ## Phần 1: Lập bảng So sánh Trade-off Toàn diện
 1. Bảng so sánh chi tiết
+
 | Tiêu chí đánh giá | Phương án 1: Hỗ trợ Cảm tính / Nhóm Chat | Phương án 2: Troubleshooting 4 Chặng Chuẩn hóa |
 | :--- | :--- | :--- |
 | **1. Thời gian xử lý sự cố (Downtime)** | Kéo dài — Phụ thuộc vào việc Senior Dev có rảnh để trả lời hay không | Rút ngắn 80% — Tự giải quyết tại chỗ trong 5-10 phút đầu tiên |
